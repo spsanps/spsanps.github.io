@@ -25,4 +25,4 @@ Was an electrical engineer, now pursuing a Master's in Computer Science at UC Sa
 
 Working on/at research and internships related to Large Language Models.
 
-Current aim to to pursue a career in AGI related media and entertainment. In process of building  and projects/learning the skills to do so. 
+Current aim to to pursue a career in AGI related media and entertainment. In process of building  and projects/learning the skills to do so. Please reach out if you have any ideas or want to collaborate.
