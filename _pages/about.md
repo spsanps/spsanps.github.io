@@ -7,7 +7,7 @@ subtitle: <a href='https://cse.ucsd.edu/'>MS CS @ UCSD</a>. Electrical Engineer 
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     How I imagine myself in the first 10 years of my upload era
 
